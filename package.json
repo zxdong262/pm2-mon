@@ -1,7 +1,7 @@
 {
   "name": "pm2-mon",
   "description": "monit pm2 process by 'pgrep node', if only one node process, run specified restart command/script",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "version"
     ,"package.json"
